@@ -5,7 +5,7 @@ from faq_data import faqs
 # ════════════════════════════════════════════════════════
 #  🔑  PASTE YOUR GROQ API KEY HERE
 # ════════════════════════════════════════════════════════
-GROQ_API_KEY = ""
+GROQ_API_KEY = "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"
 # ════════════════════════════════════════════════════════
 
 st.set_page_config(
